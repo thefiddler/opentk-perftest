@@ -1,0 +1,73 @@
+===============
+1
+Loaded in 1279 ms
+NVIDIA Corporation
+NVIDIA GeForce GT 650M OpenGL Engine
+2.1 NVIDIA-8.18.22 310.40.05f01
+-rwxr-xr-x  1 stapostol  staff  3899392 19 Ιαν 08:57 test-opentk-sdl2/bin/Release/OpenTK.dll
+===============
+2
+Loaded in 1320 ms
+NVIDIA Corporation
+NVIDIA GeForce GT 650M OpenGL Engine
+2.1 NVIDIA-8.18.22 310.40.05f01
+-rwxr-xr-x  1 stapostol  staff  3899392 19 Ιαν 08:57 test-opentk-sdl2/bin/Release/OpenTK.dll
+===============
+3
+Loaded in 1337 ms
+NVIDIA Corporation
+NVIDIA GeForce GT 650M OpenGL Engine
+2.1 NVIDIA-8.18.22 310.40.05f01
+-rwxr-xr-x  1 stapostol  staff  3899392 19 Ιαν 08:57 test-opentk-sdl2/bin/Release/OpenTK.dll
+===============
+4
+Loaded in 1327 ms
+NVIDIA Corporation
+NVIDIA GeForce GT 650M OpenGL Engine
+2.1 NVIDIA-8.18.22 310.40.05f01
+-rwxr-xr-x  1 stapostol  staff  3899392 19 Ιαν 08:57 test-opentk-sdl2/bin/Release/OpenTK.dll
+===============
+5
+Loaded in 1298 ms
+NVIDIA Corporation
+NVIDIA GeForce GT 650M OpenGL Engine
+2.1 NVIDIA-8.18.22 310.40.05f01
+-rwxr-xr-x  1 stapostol  staff  3899392 19 Ιαν 08:57 test-opentk-sdl2/bin/Release/OpenTK.dll
+===============
+===============
+===============
+===============
+1
+Loaded in 1349 ms
+NVIDIA Corporation
+NVIDIA GeForce GT 650M OpenGL Engine
+2.1 NVIDIA-8.18.22 310.40.05f01
+-rw-r--r--  1 stapostol  staff  548352 19 Ιαν 14:05 test-opentk-sdl2/bin/Release/min/OpenTK.dll
+===============
+2
+Loaded in 1280 ms
+NVIDIA Corporation
+NVIDIA GeForce GT 650M OpenGL Engine
+2.1 NVIDIA-8.18.22 310.40.05f01
+-rw-r--r--  1 stapostol  staff  548352 19 Ιαν 14:05 test-opentk-sdl2/bin/Release/min/OpenTK.dll
+===============
+3
+Loaded in 1286 ms
+NVIDIA Corporation
+NVIDIA GeForce GT 650M OpenGL Engine
+2.1 NVIDIA-8.18.22 310.40.05f01
+-rw-r--r--  1 stapostol  staff  548352 19 Ιαν 14:05 test-opentk-sdl2/bin/Release/min/OpenTK.dll
+===============
+4
+Loaded in 1332 ms
+NVIDIA Corporation
+NVIDIA GeForce GT 650M OpenGL Engine
+2.1 NVIDIA-8.18.22 310.40.05f01
+-rw-r--r--  1 stapostol  staff  548352 19 Ιαν 14:05 test-opentk-sdl2/bin/Release/min/OpenTK.dll
+===============
+5
+Loaded in 1294 ms
+NVIDIA Corporation
+NVIDIA GeForce GT 650M OpenGL Engine
+2.1 NVIDIA-8.18.22 310.40.05f01
+-rw-r--r--  1 stapostol  staff  548352 19 Ιαν 14:05 test-opentk-sdl2/bin/Release/min/OpenTK.dll

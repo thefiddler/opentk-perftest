@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-opentk", "test-opentk\test-opentk.csproj", "{FCF46EC9-B755-4A5D-90EF-14ECB04B436F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-opentk-sdl2", "test-opentk-sdl2\test-opentk-sdl2.csproj", "{E74E9B0E-4E93-4DF1-92DB-F544CF98B8A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-sdl2cs", "test-sdl2cs\test-sdl2cs.csproj", "{C56D2215-C057-4863-98B1-6290662EA521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-sdl2-opentk-external", "test-sdl2-opentk-external\test-sdl2-opentk-external.csproj", "{37A684EE-0CA5-4694-A830-E549C37DD601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-sdl2cs-opentk-external", "test-sdl2cs-opentk-external\test-sdl2cs-opentk-external.csproj", "{29BA4E68-F453-4B11-BB9F-3B507B48D861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29BA4E68-F453-4B11-BB9F-3B507B48D861}.Debug|x86.ActiveCfg = Debug|x86
+		{29BA4E68-F453-4B11-BB9F-3B507B48D861}.Debug|x86.Build.0 = Debug|x86
+		{29BA4E68-F453-4B11-BB9F-3B507B48D861}.Release|x86.ActiveCfg = Release|x86
+		{29BA4E68-F453-4B11-BB9F-3B507B48D861}.Release|x86.Build.0 = Release|x86
+		{37A684EE-0CA5-4694-A830-E549C37DD601}.Debug|x86.ActiveCfg = Debug|x86
+		{37A684EE-0CA5-4694-A830-E549C37DD601}.Debug|x86.Build.0 = Debug|x86
+		{37A684EE-0CA5-4694-A830-E549C37DD601}.Release|x86.ActiveCfg = Release|x86
+		{37A684EE-0CA5-4694-A830-E549C37DD601}.Release|x86.Build.0 = Release|x86
+		{C56D2215-C057-4863-98B1-6290662EA521}.Debug|x86.ActiveCfg = Debug|x86
+		{C56D2215-C057-4863-98B1-6290662EA521}.Debug|x86.Build.0 = Debug|x86
+		{C56D2215-C057-4863-98B1-6290662EA521}.Release|x86.ActiveCfg = Release|x86
+		{C56D2215-C057-4863-98B1-6290662EA521}.Release|x86.Build.0 = Release|x86
+		{E74E9B0E-4E93-4DF1-92DB-F544CF98B8A4}.Debug|x86.ActiveCfg = Debug|x86
+		{E74E9B0E-4E93-4DF1-92DB-F544CF98B8A4}.Debug|x86.Build.0 = Debug|x86
+		{E74E9B0E-4E93-4DF1-92DB-F544CF98B8A4}.Release|x86.ActiveCfg = Release|x86
+		{E74E9B0E-4E93-4DF1-92DB-F544CF98B8A4}.Release|x86.Build.0 = Release|x86
+		{FCF46EC9-B755-4A5D-90EF-14ECB04B436F}.Debug|x86.ActiveCfg = Debug|x86
+		{FCF46EC9-B755-4A5D-90EF-14ECB04B436F}.Debug|x86.Build.0 = Debug|x86
+		{FCF46EC9-B755-4A5D-90EF-14ECB04B436F}.Release|x86.ActiveCfg = Release|x86
+		{FCF46EC9-B755-4A5D-90EF-14ECB04B436F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = test-sdl2cs\test-sdl2cs.csproj
+	EndGlobalSection
+EndGlobal

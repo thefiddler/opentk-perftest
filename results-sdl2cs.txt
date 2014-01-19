@@ -1,0 +1,53 @@
+===============
+1
+Loaded in 1144 ms
+NVIDIA Corporation
+NVIDIA GeForce GT 650M OpenGL Engine
+2.1 NVIDIA-8.18.22 310.40.05f01
+-rwxr-xr-x  1 stapostol  staff  2881536 19 Ιαν 09:08 test-sdl2cs/bin/Release/SDL2-CS.dll
+===============
+2
+Loaded in 1430 ms
+NVIDIA Corporation
+NVIDIA GeForce GT 650M OpenGL Engine
+2.1 NVIDIA-8.18.22 310.40.05f01
+-rwxr-xr-x  1 stapostol  staff  2881536 19 Ιαν 09:08 test-sdl2cs/bin/Release/SDL2-CS.dll
+===============
+3
+Loaded in 1289 ms
+NVIDIA Corporation
+NVIDIA GeForce GT 650M OpenGL Engine
+2.1 NVIDIA-8.18.22 310.40.05f01
+-rwxr-xr-x  1 stapostol  staff  2881536 19 Ιαν 09:08 test-sdl2cs/bin/Release/SDL2-CS.dll
+===============
+4
+Loaded in 1276 ms
+NVIDIA Corporation
+NVIDIA GeForce GT 650M OpenGL Engine
+2.1 NVIDIA-8.18.22 310.40.05f01
+-rwxr-xr-x  1 stapostol  staff  2881536 19 Ιαν 09:08 test-sdl2cs/bin/Release/SDL2-CS.dll
+===============
+5
+Loaded in 1297 ms
+NVIDIA Corporation
+NVIDIA GeForce GT 650M OpenGL Engine
+2.1 NVIDIA-8.18.22 310.40.05f01
+-rwxr-xr-x  1 stapostol  staff  2881536 19 Ιαν 09:08 test-sdl2cs/bin/Release/SDL2-CS.dll
+===============
+===============
+===============
+===============
+1
+-rw-r--r--  1 stapostol  staff  16384 19 Ιαν 14:05 test-sdl2cs/bin/Release/min/SDL2-CS.dll
+===============
+2
+-rw-r--r--  1 stapostol  staff  16384 19 Ιαν 14:05 test-sdl2cs/bin/Release/min/SDL2-CS.dll
+===============
+3
+-rw-r--r--  1 stapostol  staff  16384 19 Ιαν 14:05 test-sdl2cs/bin/Release/min/SDL2-CS.dll
+===============
+4
+-rw-r--r--  1 stapostol  staff  16384 19 Ιαν 14:05 test-sdl2cs/bin/Release/min/SDL2-CS.dll
+===============
+5
+-rw-r--r--  1 stapostol  staff  16384 19 Ιαν 14:05 test-sdl2cs/bin/Release/min/SDL2-CS.dll
