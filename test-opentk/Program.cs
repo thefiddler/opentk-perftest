@@ -14,7 +14,7 @@ namespace Project
 		{
 			Stopwatch sw = new Stopwatch();
 			sw.Start();
-			using (Toolkit.Init(new ToolkitOptions { EnableHighResolution = false }))
+			using (Toolkit.Init(new ToolkitOptions { EnableHighResolution = false, Backend = PlatformBackend.PreferNative}))
 			using (var gw = new GameWindow())
 			{
 				gw.VSync = VSyncMode.Off;
