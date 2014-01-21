@@ -1,9 +1,10 @@
-
-
 lib\managed\monolinker -a %1\bin\Release\%1.exe -l none -out %1\bin\Release\min\
-for %%i in (1,1,5) do (
+xcopy /y lib\x86\SDL2.dll %1\bin\Release\
+xcopy /y lib\x86\SDL2.dll %1\bin\Release\min\
+
+for %%i in (1,2,3,4,5) do (
  echo ===============
- echo %i
+ echo %%i
  del %1.mlpd
  %1\bin\Release\%1.exe
  dir %1\bin\Release\OpenTK.dll
@@ -12,9 +13,9 @@ for %%i in (1,1,5) do (
 echo ===============
 echo ===============
 echo ===============
-for %%i in (1,1,5) do (
+for %%i in (1,2,3,4,5) do (
  echo ===============
- echo %i
+ echo %%i
  del %1-min.mlpd
  %1\bin\Release\min\%1.exe
  dir %1\bin\Release\min\OpenTK.dll
